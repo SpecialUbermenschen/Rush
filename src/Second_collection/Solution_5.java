@@ -1,17 +1,12 @@
 package Second_collection;
-//Как-то было 32 зуба
+// Я снова по объявлению...
+
 public class Solution_5 {
     public static void main(String[] args) {
-        int toothCounter = 32;
-        toothCounter--;
-        toothCounter--;
-        toothCounter--;
-        toothCounter--;
-        toothCounter--;
-        toothCounter--;
-        toothCounter--;
-        toothCounter--;
-        toothCounter--;
-        System.out.println(toothCounter);
+        String word = "Hi", phrase = "Тяжело в учебе, легко в бою", line = "ничего не придумал", text = "Once upon a time";
+        System.out.println(word);
+        System.out.println(phrase);
+        System.out.println(line);
+        System.out.println(text);
     }
 }

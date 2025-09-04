@@ -1,6 +1,6 @@
 package Second_collection;
 // Логотип решает все
-public class Solution_7 {
+public class Solution_6_1 {
     public static void main(String[] args) {
         String s1 = "Do";
         String s2 = "It";

@@ -1,6 +1,6 @@
 package Second_collection;
 
-public class Solution_2 {
+public class Solution_4_1 {
     public static void main(String[] args) {
         int centimeters = 243;
         int meters = centimeters / 100;

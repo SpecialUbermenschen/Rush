@@ -1,6 +1,6 @@
 package First_collection;
 
-public class Solution_7 {
+public class Solution_7_1 {
     public static void main(String[] args) {
         int x = 2;
         int y = 12;
